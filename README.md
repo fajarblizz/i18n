@@ -3,7 +3,14 @@
 ## Project setup
 ```
 npm install
+
+npm install @vue/cli -g
+
+npm install vue-i18n
+
+npm install vue-i18n vue-flag-icon
 ```
+
 
 ### Compiles and hot-reloads for development
 ```
